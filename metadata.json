@@ -1,0 +1,6 @@
+{
+  "name": "Ynaf Elite Car - Location de Voiture Fès",
+  "description": "Location de voiture de prestige et économique à Fès & Aéroport Fès-Saïss sans caution. Clio 5, Nissan Magnite, livraison gratuite 24/7.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
